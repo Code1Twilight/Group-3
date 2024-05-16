@@ -1,0 +1,11 @@
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\bin\Debug\Payroll System 2.6.exe
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\bin\Debug\Payroll System 2.6.pdb
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll System 2.6.csproj.AssemblyReference.cache
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll_System_2._6.frm_login.resources
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll_System_2._6.Mainform.resources
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll_System_2._6.Properties.Resources.resources
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll System 2.6.csproj.GenerateResource.cache
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll System 2.6.csproj.CoreCompileInputs.cache
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll System 2.6.pdb
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\bin\Debug\Payroll System 2.6.exe.config
+C:\Users\RONNEL\source\repos\Payroll System 2.6\Payroll System 2.6\obj\Debug\Payroll System 2.6.exe
